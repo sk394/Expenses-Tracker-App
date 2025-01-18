@@ -1,4 +1,4 @@
-# ManageMyGhanta
+# Expenses Tracker App
 
 ## Demo
 
